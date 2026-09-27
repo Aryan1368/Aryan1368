@@ -1,24 +1,26 @@
-## Hi there 👋
+Hey there 👋
 
-I'm Aryan, a developer and student from India, focused on learning, building, and improving through real projects.
+I'm Aryan, a student and developer from India.
 
-I enjoy turning ideas into working projects and exploring different areas of software development.
+I’m focused on learning software development by building real projects and improving my skills through practice.
 
-What I'm working on:
-- 🎮 Building games and experimenting with game development
-- Improving my skills in C++, Python, HTML, CSS, and SQL
-- Building projects to strengthen my programming and problem-solving
-- Continuously learning new technologies and development tools.
+I work with C++, Python, HTML, CSS, and SQL, and I'm currently exploring game development, web development, and programming fundamentals.
 
-Languages:
-C++ · Python · HTML · CSS · SQL
+I enjoy taking an idea and turning it into something functional, while continuously learning from the process.
 
-Development:
-Game Development · Web Development · Git · GitHub.
+What I'm Working On
+- Building and experimenting with game development
+ - Improving my C++ and Python programming skills
+ - Learning web development
+ - Practicing SQL and database concepts
+ - Building projects and documenting my progress on GitHub
+   
+Tech Stack :
+Languages: C++ · Python · HTML · CSS · SQL
+Tools: Git · GitHub · Roblox Studio
+Interests: Game Development · Web Development · Software Development
 
-My Approach :
-I believe the best way to learn development is by building real things.
+Currently Learning
+I'm focused on strengthening my programming fundamentals, building better projects, and developing a strong foundation for a career in technology.
 
-Instead of only following tutorials, I try to turn what I learn into projects, understand what goes wrong, and improve with every iteration.
-
-Currently I'm focused on building a stronger portfolio, improving my programming fundamentals, and documenting my progress through GitHub.
+Learning • Building • Improving
