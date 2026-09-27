@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Aryan1368/Aryan1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aryan, a developer and student from India, focused on learning, building, and improving through real projects.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects and exploring different areas of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on:
+- 🎮 Building games and experimenting with game development
+- Improving my skills in C++, Python, HTML, CSS, and SQL
+- Building projects to strengthen my programming and problem-solving
+- Continuously learning new technologies and development tools.
+
+Languages:
+C++ · Python · HTML · CSS · SQL
+
+Development:
+Game Development · Web Development · Git · GitHub.
+
+My Approach :
+I believe the best way to learn development is by building real things.
+
+Instead of only following tutorials, I try to turn what I learn into projects, understand what goes wrong, and improve with every iteration.
+
+Currently I'm focused on building a stronger portfolio, improving my programming fundamentals, and documenting my progress through GitHub.
